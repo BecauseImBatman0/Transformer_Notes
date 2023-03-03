@@ -15,3 +15,5 @@ class Attention1(nn.Module):
         score=torch.matmul(Q,K.t())/np.sqrt(dk)
         score=self.softmax(score)
         return torch.matmul(score,V)
+    
+    
