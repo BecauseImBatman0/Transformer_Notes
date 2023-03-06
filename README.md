@@ -1,5 +1,5 @@
 # Transformer_Notes
-学习Transfomer的笔记
+学习Transformer的笔记
 
 ## 1.Self-Attention
 
